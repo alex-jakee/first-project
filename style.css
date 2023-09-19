@@ -1,0 +1,8 @@
+.box{
+  padding: 30px;
+  display: flex;
+  background-color: cadetblue;
+  color: #fff;
+  font-size: 24px;
+  line-height: 30px;
+}
